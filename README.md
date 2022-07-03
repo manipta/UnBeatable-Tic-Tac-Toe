@@ -24,3 +24,7 @@ If you want to know about these algorithms in detail, here are links:
 - [Minimax Algorithm](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-3-tic-tac-toe-ai-finding-optimal-move/)
 
 - [Alpha-Beta Pruning](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/)
+
+# Limitations/Future Work
+- A GUI for the Game
+- Scoring System
